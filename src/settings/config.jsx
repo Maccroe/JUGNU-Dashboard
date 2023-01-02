@@ -1,3 +1,3 @@
 export default {
-  baseurl: `https://bot.kabirjaipal.repl.co`,
+  baseurl: `http://54.37.87.203:7010`,
 };
